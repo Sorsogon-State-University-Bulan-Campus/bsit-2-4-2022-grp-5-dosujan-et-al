@@ -477,6 +477,7 @@ body {
 	font-size: 14px;
 	height: 48px;
 	line-height: 48px;
+	text-align: center;
 }
 #body .games .aside {
 	background: url(../images/border.gif) repeat-x top left;
