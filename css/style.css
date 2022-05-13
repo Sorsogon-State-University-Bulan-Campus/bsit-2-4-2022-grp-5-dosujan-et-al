@@ -733,7 +733,6 @@ body {
 }
 #body .blog .sidebar div span a.selected {
 	color: #fff;
-	background: #000;
 	border: 1px solid #22272a;
 	border-radius: 6px;
 }
@@ -756,7 +755,7 @@ body {
 	text-decoration: none;
 }
 #body .blog .sidebar ul li > a:hover {
-	color: #a3a3a3
+	color: #a3a3a3;
 }
 #body .blog .sidebar ul li span {
 	background: #181818;
