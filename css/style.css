@@ -373,7 +373,7 @@ body {
 	margin: 0 9px;
 	overflow: hidden;
 	padding: 0 0 10px;
-	width: 850px;
+	width: 880px;
 }
 #body .media .article ul li a.figure {
 	border: 1px solid #22272a;
@@ -386,7 +386,7 @@ body {
 	opacity: 0.8;
 }
 #body .media .article ul li a.figure img {
-	border: 1px solid #000;
+	border: 2px solid #000;
 	display: block;
 }
 #body .media .article ul li p {
@@ -539,6 +539,7 @@ body {
 	font-size: 24px;
 	font-weight: normal;
 	height: 55px;
+	text-align: center;
 	line-height: 55px;
 	margin: 0 0 1px;
 	padding: 0 19px;
@@ -565,15 +566,68 @@ body {
 }
 #body .about .content {
 	float: left;
-	margin: 0 0 0 20px;
+	margin: 0 0 -18px 20px;
 	padding: 0;
-	width: 560px;
+	width: 450px;
+}
+#body .about .content ul li .article {
+	background: #181818;
+	border: 1px solid #22272a;
+	margin: 0;
+	overflow: hidden;
+	padding: 13px 13px 0;
+}
+#body .about .content ul li .article a.figure {
+	border: 1px solid #22272a;
+	display: block;
+	float: left;
+	margin: 0 20px 0 60px;
+	padding: 0;
+}
+#body .about .content ul li .article a.figure:hover {
+	opacity: 0.8;
+}
+#body .about .content ul li .article a.figure img {
+	border: 1px solid #000;
+	display: block;
+}
+#body .about .content ul li .article p {
+	line-height: 24px;
+	padding: 190px 0 10px;
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Poppins';
+}
+#body .about .content ul li .article p a.more {
+	background: url("../images/bg-more.png") no-repeat center center;
+	color: #bababa;
+	display: inline-block;
+	font-size: 10px;
+	font-weight: normal;
+	height: 23px;
+	line-height: 22px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	text-decoration: none;
+	text-transform: lowercase;
+	width: 70px;
+}
+#body .about .content ul li .article p a.more:hover {
+	color: #fff;
 }
 #body .about .aside {
 	float: left;
-	margin: 0 0 0 20px;
+	margin: 0 0 -18px 20px;
 	padding: 0;
-	width: 340px;
+	width: 450px;
+}
+#body .about .aside p {
+	line-height: 30px;
+	padding: 80px 0 87px;
+	text-align: center;
+	font-size: 20px;
+	font-family: 'Poppins';
 }
 #body .blog {
 	overflow: hidden;
@@ -694,9 +748,9 @@ body {
 #body .blog .sidebar {
 	background: url(../images/border.gif) repeat-x top left;
 	float: left;
-	margin: 0 0 0 30px;
+	margin: 0 0 0 20px;
 	padding: 3px 0 0;
-	width: 280px;
+	width: 290px;
 }
 #body .blog .sidebar div {
 	background: #070707 url(../images/gradient3.png) repeat-x top center;

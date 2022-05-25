@@ -23,7 +23,10 @@ Answer: It is because Crypto Games is a Game that you are going to earn a real m
 ## References
 
 - [Crypto Games](https://www.republicworld.com/technology-news/other-tech-news/crypto-games-what-is-crypto-gaming-how-its-used-to-make-money-check-details.html)
-
+- [Best-NFT-Games](https://www.creativebloq.com/features/best-nft-games)
+- [what-are-nft-games-and-how-do-they-work?](https://academy.binance.com/en/articles/what-are-nft-games-and-how-do-they-work?utm_campaign=googleadsxacademy&utm_source=googleadwords_int&utm_medium=cpc&ref=HDYAHEES&gclid=CjwKCAjwjtOTBhAvEiwASG4bCDovoxbpwm0UtlMnFNIzV5n6E8JfrE0EHT6AdKszNCuQzOZtTvtaKhoCZHwQAvD_BwE)
+- [nft-gamings-growth-in-the-philippines](https://www.playtoearn.today/news/nft-gamings-growth-in-the-philippines/)
+- [what-is-the-next-big-cryptocurrency](https://www.gobankingrates.com/investing/crypto/what-is-the-next-big-cryptocurrency/)
 ## Acknowledgements
 
- - [Blank]()
+ - [Template](https://freewebsitetemplates.com/preview/gamewebsitetemplate/games.html)
